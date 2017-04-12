@@ -1,0 +1,65 @@
+c:\users\ск\documents\visual studio 2015\Projects\LMS\LMS\bin\Debug\LMS.exe.config
+c:\users\ск\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+c:\users\ск\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+c:\users\ск\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+c:\users\ск\documents\visual studio 2015\Projects\LMS\LMS\bin\Debug\LMS.exe
+c:\users\ск\documents\visual studio 2015\Projects\LMS\LMS\bin\Debug\LMS.pdb
+c:\users\ск\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.exe
+c:\users\ск\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.pdb
+c:\users\ск\documents\visual studio 2015\Projects\LMS\LMS\obj\Debug\LMS.Form1.resources
+C:\Users\Евгений\Desktop\LMS-master\LMS\LMS\bin\Debug\LMS.exe.config
+C:\Users\Евгений\Desktop\LMS-master\LMS\LMS\obj\Debug\LMS.exe
+C:\Users\Евгений\Desktop\LMS-master\LMS\LMS\obj\Debug\LMS.pdb
+C:\Users\Евгений\Desktop\LMS-master\LMS\LMS\bin\Debug\LMS.exe
+C:\Users\Евгений\Desktop\LMS-master\LMS\LMS\bin\Debug\LMS.pdb
+C:\Users\Евгений\Desktop\LMS-master\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\Евгений\Desktop\LMS-master\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+C:\Users\СК\Desktop\LMS-master\LMS\LMS\bin\Debug\LMS.exe.config
+C:\Users\СК\Desktop\LMS-master\LMS\LMS\obj\Debug\LMS.exe
+C:\Users\СК\Desktop\LMS-master\LMS\LMS\obj\Debug\LMS.pdb
+C:\Users\СК\Desktop\LMS-master\LMS\LMS\bin\Debug\LMS.exe
+C:\Users\СК\Desktop\LMS-master\LMS\LMS\bin\Debug\LMS.pdb
+C:\Users\СК\Desktop\LMS-master\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+C:\Users\СК\Desktop\LMS-master\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\СК\Desktop\LMS-master\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+C:\Users\Евгений\Desktop\LMS-master(2)\LMS-master\LMS\LMS\bin\Debug\LMS.exe.config
+C:\Users\Евгений\Desktop\LMS-master(2)\LMS-master\LMS\LMS\obj\Debug\LMS.exe
+C:\Users\Евгений\Desktop\LMS-master(2)\LMS-master\LMS\LMS\obj\Debug\LMS.pdb
+C:\Users\Евгений\Desktop\LMS-master(2)\LMS-master\LMS\LMS\bin\Debug\LMS.exe
+C:\Users\Евгений\Desktop\LMS-master(2)\LMS-master\LMS\LMS\bin\Debug\LMS.pdb
+C:\Users\Евгений\Desktop\LMS-master(2)\LMS-master\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\LMS-master(2)\LMS-master\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\Евгений\Desktop\LMS-master(2)\LMS-master\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+C:\Users\Евгений\Desktop\LMS-master\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\LMS\LMS\bin\Debug\LMS.exe.config
+C:\Users\student\Desktop\LMS\LMS\obj\Debug\LMS.exe
+C:\Users\student\Desktop\LMS\LMS\obj\Debug\LMS.pdb
+C:\Users\student\Desktop\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\student\Desktop\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\LMS\LMS\bin\Debug\LMS.exe
+C:\Users\student\Desktop\LMS\LMS\bin\Debug\LMS.pdb
+C:\Users\Евгений\Desktop\LMS-master(3)\LMS-master\LMS\LMS\bin\Debug\LMS.exe.config
+C:\Users\Евгений\Desktop\LMS-master(3)\LMS-master\LMS\LMS\obj\Debug\LMS.exe
+C:\Users\Евгений\Desktop\LMS-master(3)\LMS-master\LMS\LMS\obj\Debug\LMS.pdb
+C:\Users\Евгений\Desktop\LMS-master(3)\LMS-master\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\LMS-master(3)\LMS-master\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\Евгений\Desktop\LMS-master(3)\LMS-master\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+C:\Users\Евгений\Desktop\LMS-master(3)\LMS-master\LMS\LMS\bin\Debug\LMS.exe
+C:\Users\Евгений\Desktop\LMS-master(3)\LMS-master\LMS\LMS\bin\Debug\LMS.pdb
+C:\Users\Евгений\Desktop\LMS-master(LAST)\LMS-master\LMS\LMS\bin\Debug\LMS.exe.config
+C:\Users\Евгений\Desktop\LMS-master(LAST)\LMS-master\LMS\LMS\obj\Debug\LMS.exe
+C:\Users\Евгений\Desktop\LMS-master(LAST)\LMS-master\LMS\LMS\obj\Debug\LMS.pdb
+C:\Users\Евгений\Desktop\LMS-master(LAST)\LMS-master\LMS\LMS\bin\Debug\LMS.exe
+C:\Users\Евгений\Desktop\LMS-master(LAST)\LMS-master\LMS\LMS\bin\Debug\LMS.pdb
+C:\Users\Евгений\Desktop\LMS-master(LAST)\LMS-master\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\LMS-master(LAST)\LMS-master\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\Евгений\Desktop\LMS-master(LAST)\LMS-master\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+C:\Users\Евгений\Desktop\LMS\LMS-master\LMS\LMS\bin\Debug\LMS.exe.config
+C:\Users\Евгений\Desktop\LMS\LMS-master\LMS\LMS\obj\Debug\LMS.exe
+C:\Users\Евгений\Desktop\LMS\LMS-master\LMS\LMS\obj\Debug\LMS.pdb
+C:\Users\Евгений\Desktop\LMS\LMS-master\LMS\LMS\bin\Debug\LMS.exe
+C:\Users\Евгений\Desktop\LMS\LMS-master\LMS\LMS\bin\Debug\LMS.pdb
+C:\Users\Евгений\Desktop\LMS\LMS-master\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\LMS\LMS-master\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\Евгений\Desktop\LMS\LMS-master\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache

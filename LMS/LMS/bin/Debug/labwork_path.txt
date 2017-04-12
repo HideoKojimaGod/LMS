@@ -1,0 +1,2 @@
+Лаба1:laba.txt
+Лаба2:laba.txt
